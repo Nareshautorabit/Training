@@ -3,6 +3,7 @@
     <version>39.0</version>
     <types>
         <members>TestProfile</members>
+        <members>TestProfile2</members>
         <name>Profile</name>
     </types>
 </Package>
